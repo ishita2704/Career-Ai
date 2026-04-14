@@ -1,7 +1,6 @@
 # 🚀 Full Stack AI Project (Career AI) 
 
-[![AI Career Coach Demo](https://img.youtube.com/vi/DaQuSSmHa9k/hqdefault.jpg)](https://www.youtube.com/watch?v=DaQuSSmHa9k "Watch the Full Demo Video on YouTube")
-
+**Demo Video:** [https://www.youtube.com/watch?v=DaQuSSmHa9k](https://www.youtube.com/watch?v=DaQuSSmHa9k)
 An all-in-one, AI-powered career development platform engineered with Next.js 14. This application provides users with an intelligent resume builder, tailored cover letter generation, interview preparation tools, and real-time industry insights. Wrapped in a stunning, highly optimized glassmorphic Dark Mode UI.
 
 ---
