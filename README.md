@@ -1,4 +1,4 @@
-# 🚀 AI Career Coach
+# 🚀 Full Stack AI Project (Career AI) 
 
 ![AI Career Coach Demo](https://img.youtube.com/vi/DaQuSSmHa9k/maxresdefault.jpg)
 
